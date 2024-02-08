@@ -13,7 +13,7 @@ import {MatListModule} from '@angular/material/list';
     MatIconModule,
     MatButtonModule,
     MatToolbarModule,
-    MatListModule
+    MatListModule,
   ],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'
