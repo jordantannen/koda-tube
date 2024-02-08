@@ -1,5 +1,7 @@
 # KodaTube
 
+A practice project to get familar with Angular. This is essentially YouTube but every video is just an image of my dog, Koda.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
 
 ## Development server
